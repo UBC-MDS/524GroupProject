@@ -17,7 +17,7 @@ version = "0.1.0"
 
 description = "Package for Group Project"
 authors = [
-    { name = "Sean Brown, Sam Lokanc, ", email = "sean_brown_3@sfu.ca" },
+    { name = "Sean Brown, Sam Lokanc, Luis Alvarez, Rabin Duran ", email = "sean_brown_3@sfu.ca" },
 ]
 license = "MIT"
 requires-python = ">= 3.10" # Adjust based on the minimum version of Python that you support
